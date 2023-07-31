@@ -6,7 +6,7 @@ public class Demo6d {
 
         System.out.printf("+----------+---------+------+\n");
         System.out.printf("|%10s|%9s|%6s|\n", "Apples", "5", "$0.99");
-        System.out.printf("|%10s|%9s|%6s|\n", "Orranges", "10", "$1.49");
+        System.out.printf("|%10s|%9s|%6s|\n", "Oranges", "10", "$1.49");
 
 
 
